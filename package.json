@@ -1,0 +1,6 @@
+{
+  "name": "gtc-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless backend for the Global Truckers Community website, deployed on Vercel."
+}
